@@ -31,7 +31,6 @@ flutter run
 4. Run tests:
 
 flutter test
-flutter drive --target=test/integration_test/app_test.dart
 
 
 ## Dependencies
